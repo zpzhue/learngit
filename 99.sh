@@ -12,5 +12,3 @@ while [ $i -le 9 ];do
    echo ""
    let i++
 done
-
-#add a new line
